@@ -171,7 +171,10 @@
 
   >성실하고 책임감이 많음. 프로젝트를 할 때에는 주도해서 이끌어나감. 배우고 싶어하는 분야가 있으면 스스로 찾아서 공부하는 성격.
   
+### [장용석](https://github.com/yongsk0066) - (P.rogramming 동아리원)
 
+  >동아리 운영진으로서 동아리원의 의견을 민주적으로 추합하여 이상적인 방향으로 이끌어감. 
+ 
 ## 링크
 - email: <0417kch@naver.com>
 - [GitHub](https://github.com/changhoi)
