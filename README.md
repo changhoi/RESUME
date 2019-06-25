@@ -1,5 +1,9 @@
 # 이력서
 
+![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
+![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg)
+
 ## 프로필
 
 <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/41738382_458557637970892_1416624980388478976_n.jpg?_nc_cat=102&_nc_ht=scontent-icn1-1.xx&oh=413600001927ab44cd284b91c5e24be5&oe=5D624AD9" width="200" height="200" />
@@ -173,6 +177,8 @@
 - 영어(일상적 소통 가능, 기술 문서 이해에 무리가 없음)
 
 ## 지인 평가
+
+> 지인 평가를 PR로 받고 있습니다.
 
 ### [윤재희](https://github.com/ytjh05) - (정보시스템학과 동기, 위한 개발팀)
 
