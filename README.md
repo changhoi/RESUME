@@ -1,7 +1,7 @@
 # 이력서
 
-![contributor](https://img.shields.io/github/contributors/JSpiner/RESUME.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/JSpiner/RESUME.svg)
+![contributor](https://img.shields.io/github/contributors/changhoi/RESUME.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/changhoi/RESUME.svg)
 ![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg)
 
 ## 프로필
