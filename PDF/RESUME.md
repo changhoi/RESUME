@@ -50,6 +50,7 @@
 
 ### 클라이언트
 
+- HTML5, CSS3
 - React & React Native
 - Vanila ES6+
 
@@ -64,13 +65,12 @@
 
 계속해서 배우고 있습니다.
 
-- Machine learning
 - Docker
 - AWS
+- Design Pattern
 
 ### 그 밖
 
-- HTML5, CSS3
 - Git, Github
 - Markdown
 - 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다. - [TIL](https://github.com/changhoi/TIL)
