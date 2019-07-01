@@ -69,6 +69,7 @@
 
 계속해서 배우고 있습니다.
 
+- TypeScript
 - Docker
 - AWS
 - Design Pattern
