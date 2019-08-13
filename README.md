@@ -42,12 +42,15 @@
 ### 클라이언트
 
 - HTML5, CSS3
-- React & React Native
+- **React & React Native**
 - Vanila ES6+
+- TypeScript
+ 
 
 ### 서버
 
 - **Node.js Express.js**
+- TypeScript
 - Python Django DRF
 - GraphQL
 - AWS
@@ -56,11 +59,10 @@
 
 계속해서 배우고 있습니다.
 
-- TypeScript
 - GraphQL & Apollo
 - Docker
 - AWS
-- Design Pattern
+- **Design Pattern**
 
 ### 그 밖
 
@@ -68,7 +70,26 @@
 - Markdown
 - 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다. - [TIL](https://github.com/changhoi/TIL)
 
-## 교육
+## 경력
+
+### 휴비즈(Hyubiz)
+
+- 서울 성동구 성수동
+- 2019.03 ~ 2019.07
+- 인턴십: 풀스택 개발자
+  - React Native, React, Express, Django, Django RestFramework
+  - MySQL
+  - AWS EC2, RDS 
+
+### [구름(goorm)](goorm.io)
+
+- 경기도 성남시 분당구
+- 2019.07 ~ 현재
+- 신입: 풀스택 개발자
+  - Express, React, SSR, SCSS, Reactstrap
+  - MongoDB
+
+## 학력
 
 ### 한양대학교
 
