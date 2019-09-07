@@ -15,7 +15,8 @@
 
 ## Like
 
-- JS, Python
+- **JS**, Python
+- Typescript
 - **기술 공유**
 - 노력에 따른 성취
 - 좋아하는 걸, 열심히
@@ -39,13 +40,13 @@
 - HTML5, CSS3
 - **React & React Native**
 - Vanila ES6+
-- TypeScript
- 
+- **TypeScript**
+- Apollo
 
 ### 서버
 
 - **Node.js Express.js**
-- TypeScript
+- **TypeScript**
 - Python Django DRF
 - GraphQL
 - AWS
@@ -54,16 +55,16 @@
 
 계속해서 배우고 있습니다.
 
-- GraphQL & Apollo
-- Docker
+- Circle CI
+- **Docker**
 - AWS
 - **Design Pattern**
 
 ### 그 밖
 
-- Git, Github
+- Git, Git-Flow, Github
 - Markdown
-- 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다. - [TIL](https://github.com/changhoi/TIL)
+- 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다. - [TIL](https://github.com/changhoi/TIL) & [velog](https://velog.io/@changhoi)
 
 ## 경력
 
@@ -74,7 +75,7 @@
 - 인턴십: 풀스택 개발자
   - React Native, React, Express, Django, Django RestFramework
   - MySQL
-  - AWS EC2, RDS 
+  - AWS EC2, RDS
 
 ### [구름(goorm)](goorm.io)
 
@@ -141,12 +142,20 @@
 ### 한양대학교 창업동아리 CLAION
 
 - 한양대 창업동아리 CLAION 개발자
-- 2019.03 ~ 현재
+- 2019.03 ~ 2019.09
 - 시간표를 기반으로 한 학생 커뮤니티 Uniclass - [Github repo](https://github.com/claion)
+- 미완 종료
 
 ## 프로젝트
 
 실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 실습 위주의 학습을 좋아해서, [노마드코더](https://academy.nomadcoders.co/courses/)라는 사이트에서 실습 위주의 수업을 들어가면서 프로젝트를 진행했습니다. 해당 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
+
+### 아마톤 2019(Amathon 2019) - [Github repo](https://github.com/amathon-2019/mandalteam)
+
+- 내용: AUSG에서 주최한 해커톤 Amathon에서 실시간 동기화 되는 만다라트차트를 만들었습니다. Graphene를 이용해 백앤드 API를 구축하는 역할을 주로 맡았습니다. (feature/backend_init 브랜치)
+- 기간: 2019.08.31 ~ 2019.09.01
+- 기술: Graphene, React, Apollo, AWS lambda, DynamoDB
+- 수상: 팀워크 상
 
 ### 연하대 - [Github repo](https://github.com/yeonhadae)
 
@@ -172,7 +181,7 @@
 ### React 영화 앱 - [Github repo](https://github.com/changhoi/reactflix)
 
 - 내용: React를 학습하기 위해 간단한 영화 소개 앱을 만들었습니다.
-- 기술: React, axios, Presenter-Container Pattern
+- 기술: React, axios, Presenter-Container Pattern, react-router
 
 ### KakaoTalk-Clone - [Github repo](https://github.com/changhoi/KakaoTalk_clone)
 
@@ -181,10 +190,9 @@
 
 ### 기타 토이 프로젝트
 
-- 학습을 위한 토이 프로젝트를 진행하곤 합니다. 최근에는 SocketIO와 Typescript를 공부하고 있습니다.
+- 학습을 위한 토이 프로젝트를 진행하는 것을 좋아합니다.
 - [토이 프로젝트](https://github.com/toy-program)
 - [기타 작은 프로젝트](https://github.com/changhoi?tab=repositories)
-
 
 ## 리더십
 
@@ -193,7 +201,7 @@
 - 한양대학교 정보시스템학과 학생회장 (2018.01 ~ 2018.12)
 - 한양대학교 정보시스템학과 웹진 웹진장 (2018.01 ~ 2018.12)
 - 한양대학교 위한 운영진 (2018.12 ~ 현재)
-- 미친동아리 회장 (2018.12 ~ 2018.03)
+- 미친동아리 회장 (2018.12 ~ 2019.03)
 - P.rogramming 운영진 (2019.03 ~ 현재)
 
 ## 언어
