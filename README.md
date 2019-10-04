@@ -6,7 +6,7 @@
 
 ## 프로필
 
-<img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/41738382_458557637970892_1416624980388478976_n.jpg?_nc_cat=102&_nc_ht=scontent-icn1-1.xx&oh=413600001927ab44cd284b91c5e24be5&oe=5D624AD9" width="200" height="200" />
+<img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t1.0-9/41738382_458557637970892_1416624980388478976_n.jpg?_nc_cat=102&_nc_oc=AQlg43DnPEt066kca_fn611uzqgw8IvtvSJPHd3EHmFzipHpqK-Oelh75p4dBYgEQBw&_nc_ht=scontent-gmp1-1.xx&oh=37063609a19c7749c665c2035a0316f0&oe=5E280BD9" width="200" height="200" />
 
 - 이름: 김창회
 - 생일: 1996.04.17
@@ -62,6 +62,7 @@
 
 ### 그 밖
 
+- Test code (Mocha, chai)
 - Git, Git-Flow, Github
 - Markdown
 - 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다. - [TIL](https://github.com/changhoi/TIL) & [velog](https://velog.io/@changhoi)
@@ -138,6 +139,7 @@
 - [한양대학교 커뮤니티 위한](http://www.weehan.com/) 동아리 운영진 개발팀
 - 2019.01 ~ 현재
 - 대학 커뮤니티를 운영하고 있습니다.
+  - [Open Organization](https://github.com/weehan-dev)
 
 ### 한양대학교 창업동아리 CLAION
 
@@ -148,7 +150,13 @@
 
 ## 프로젝트
 
-실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 실습 위주의 학습을 좋아해서, [노마드코더](https://academy.nomadcoders.co/courses/)라는 사이트에서 실습 위주의 수업을 들어가면서 프로젝트를 진행했습니다. 해당 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
+실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 실습 위주의 학습을 좋아해서, [노마드코더](https://academy.nomadcoders.co/courses/)라는 사이트에서 실습 위주의 수업을 들어가면서 프로젝트를 진행했습니다. 해당 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
+
+### 두근두근 라치오스 - [Github repo](https://github.com/weehan-dev/dodohan)
+
+- 내용: 위한이 한양대학교 학생들에게만 제공하던 매칭 프로그램을 축제를 맞아 이벤트성으로 외부 학교의 신청을 받고 매칭해주는 프로그램을 만들었습니다.
+- 기간: 2019.09.15 ~ 2019.09.23
+- 기술: JS, MongoDB
 
 ### 아마톤 2019(Amathon 2019) - [Github repo](https://github.com/amathon-2019/mandalteam)
 
@@ -200,7 +208,8 @@
 
 - 한양대학교 정보시스템학과 학생회장 (2018.01 ~ 2018.12)
 - 한양대학교 정보시스템학과 웹진 웹진장 (2018.01 ~ 2018.12)
-- 한양대학교 위한 운영진 (2018.12 ~ 현재)
+- 한양대학교 위한 운영진 개발팀(2018.12 ~ 현재)
+- 한양대학교 위한 운영진 개발팀장 (2019.06 ~ 현재)
 - 미친동아리 회장 (2018.12 ~ 2019.03)
 - P.rogramming 운영진 (2019.03 ~ 현재)
 
