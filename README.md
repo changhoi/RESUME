@@ -152,6 +152,12 @@
 
 실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 실습 위주의 학습을 좋아해서, [노마드코더](https://academy.nomadcoders.co/courses/)라는 사이트에서 실습 위주의 수업을 들어가면서 프로젝트를 진행했습니다. 해당 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
 
+### Mandal art chart Backend - [Github repo](https://github.com/paperbag-dev/mandalart-server)
+
+- 내용: 아마톤에서 개발 했던 주제를 동아리 팀원들과 실제 서비스를 위한 프로젝트로 발전시키고 있습니다.
+- 기간: 2019.09.22 ~ 현재
+- 기술: Typescript, Express, MongoDB, Circle CI
+
 ### 두근두근 라치오스 - [Github repo](https://github.com/weehan-dev/dodohan)
 
 - 내용: 위한이 한양대학교 학생들에게만 제공하던 매칭 프로그램을 축제를 맞아 이벤트성으로 외부 학교의 신청을 받고 매칭해주는 프로그램을 만들었습니다.
