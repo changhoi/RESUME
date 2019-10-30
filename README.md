@@ -2,7 +2,7 @@
 
 ![contributor](https://img.shields.io/github/contributors/changhoi/RESUME.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/changhoi/RESUME.svg)
-![status](https://img.shields.io/badge/status-currently%20employed-lightgrey.svg)
+![status](https://img.shields.io/badge/status-Looking%20for%20work-green)
 
 ## 프로필
 
@@ -65,7 +65,7 @@
 - Test code (Mocha, chai)
 - Git, Git-Flow, Github
 - Markdown
-- 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다. - [TIL](https://github.com/changhoi/TIL) & [velog](https://velog.io/@changhoi)
+- 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다. - [TIL](https://github.com/changhoi/TIL) & [Notion](https://www.notion.so/changhoi/Changhoi-Devlog-dc965ff8229d4e39bd59c749a832ffad)
 
 ## 경력
 
@@ -81,7 +81,7 @@
 ### [구름(goorm)](goorm.io)
 
 - 경기도 성남시 분당구
-- 2019.07 ~ 현재
+- 2019.07 ~ 2019.10
 - 신입: 풀스택 개발자
   - Express, React, SSR, SCSS, Reactstrap
   - MongoDB
@@ -125,7 +125,7 @@
 ### P.rogramming
 
 - 서울대학교 프로그래밍 동아리
-- 2019.01 ~ 현재
+- 2019.01 ~ 2019.10
 - Python, Django를 배우고 재능 공유 웹앱 프로젝트에 참여했습니다.
 
 ### 미친동아리
@@ -150,13 +150,13 @@
 
 ## 프로젝트
 
-실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 실습 위주의 학습을 좋아해서, [노마드코더](https://academy.nomadcoders.co/courses/)라는 사이트에서 실습 위주의 수업을 들어가면서 프로젝트를 진행했습니다. 해당 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
+실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
 
 ### Mandal art chart Backend - [Github repo](https://github.com/paperbag-dev/mandalart-server)
 
 - 내용: 아마톤에서 개발 했던 주제를 동아리 팀원들과 실제 서비스를 위한 프로젝트로 발전시키고 있습니다.
 - 기간: 2019.09.22 ~ 현재
-- 기술: Typescript, Express, MongoDB, Circle CI
+- 기술: Typescript, Express, MongoDB, Circle CI, Swagger
 
 ### 두근두근 라치오스 - [Github repo](https://github.com/weehan-dev/dodohan)
 
@@ -214,10 +214,10 @@
 
 - 한양대학교 정보시스템학과 학생회장 (2018.01 ~ 2018.12)
 - 한양대학교 정보시스템학과 웹진 웹진장 (2018.01 ~ 2018.12)
+- 미친동아리 회장 (2018.12 ~ 2019.03)
+- P.rogramming 운영진 (2019.03 ~ 2019.10)
 - 한양대학교 위한 운영진 개발팀(2018.12 ~ 현재)
 - 한양대학교 위한 운영진 개발팀장 (2019.06 ~ 현재)
-- 미친동아리 회장 (2018.12 ~ 2019.03)
-- P.rogramming 운영진 (2019.03 ~ 현재)
 
 ## 언어
 
