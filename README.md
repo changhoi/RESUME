@@ -56,7 +56,8 @@
 계속해서 배우고 있습니다.
 
 - Circle CI
-- **Docker**
+- **Docker** & k8s
+- **Serverless**
 - AWS
 - **Design Pattern**
 
@@ -65,7 +66,8 @@
 - Test code (Mocha, chai)
 - Git, Git-Flow, Github
 - Markdown
-- 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다. - [TIL](https://github.com/changhoi/TIL) & [Notion](https://www.notion.so/changhoi/Changhoi-Devlog-dc965ff8229d4e39bd59c749a832ffad)
+- 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다. 
+    - <https://changhoi.github.io>
 
 ## 경력
 
