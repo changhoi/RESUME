@@ -2,7 +2,7 @@
 
 ![contributor](https://img.shields.io/github/contributors/changhoi/RESUME.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/changhoi/RESUME.svg)
-![status](https://img.shields.io/badge/status-Looking%20for%20work-green)
+![status](https://img.shields.io/badge/status-currently%20employed-lightgrey)
 
 ## 프로필
 
@@ -15,8 +15,8 @@
 
 ## Like
 
-- **JS**, Python
-- Typescript
+- JS, Python
+- **Typescript**
 - **기술 공유**
 - 노력에 따른 성취
 - 좋아하는 걸, 열심히
@@ -41,7 +41,6 @@
 - **React & React Native**
 - Vanila ES6+
 - **TypeScript**
-- Apollo
 
 ### 서버
 
@@ -71,6 +70,14 @@
 
 ## 경력
 
+### [구름(goorm)](goorm.io)
+
+- 경기도 성남시 분당구
+- 2019.07 ~ 2019.10
+- 신입: 풀스택 개발자
+  - Express, React, SSR, SCSS, Reactstrap
+  - MongoDB
+
 ### 휴비즈(Hyubiz)
 
 - 서울 성동구 성수동
@@ -79,14 +86,6 @@
   - React Native, React, Express, Django, Django RestFramework
   - MySQL
   - AWS EC2, RDS
-
-### [구름(goorm)](goorm.io)
-
-- 경기도 성남시 분당구
-- 2019.07 ~ 2019.10
-- 신입: 풀스택 개발자
-  - Express, React, SSR, SCSS, Reactstrap
-  - MongoDB
 
 ## 학력
 
@@ -142,13 +141,7 @@
 - 2019.01 ~ 현재
 - 대학 커뮤니티를 운영하고 있습니다.
   - [Open Organization](https://github.com/weehan-dev)
-
-### 한양대학교 창업동아리 CLAION
-
-- 한양대 창업동아리 CLAION 개발자
-- 2019.03 ~ 2019.09
-- 시간표를 기반으로 한 학생 커뮤니티 Uniclass - [Github repo](https://github.com/claion)
-- 미완 종료
+  - [개발팀 블로그](https://weehan-dev.github.io)
 
 ## 프로젝트
 
@@ -216,10 +209,11 @@
 
 - 한양대학교 정보시스템학과 학생회장 (2018.01 ~ 2018.12)
 - 한양대학교 정보시스템학과 웹진 웹진장 (2018.01 ~ 2018.12)
-- 미친동아리 회장 (2018.12 ~ 2019.03)
+- 미친동아리 1기 회장 (2018.12 ~ 2019.03)
 - P.rogramming 운영진 (2019.03 ~ 2019.10)
 - 한양대학교 위한 운영진 개발팀(2018.12 ~ 현재)
 - 한양대학교 위한 운영진 개발팀장 (2019.06 ~ 현재)
+- 미친동아리 2기 회장 (2019.12 ~ 2019.03)
 
 ## 언어
 
