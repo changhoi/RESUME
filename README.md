@@ -6,7 +6,7 @@
 
 ## 프로필
 
-<img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t1.0-9/41738382_458557637970892_1416624980388478976_n.jpg?_nc_cat=102&_nc_oc=AQlg43DnPEt066kca_fn611uzqgw8IvtvSJPHd3EHmFzipHpqK-Oelh75p4dBYgEQBw&_nc_ht=scontent-gmp1-1.xx&oh=37063609a19c7749c665c2035a0316f0&oe=5E280BD9" width="200" height="200" />
+<img src="https://avatars0.githubusercontent.com/u/34329147?s=460&v=4" width="200" height="200" />
 
 - 이름: 김창회
 - 생일: 1996.04.17
@@ -15,7 +15,7 @@
 
 ## Like
 
-- JS, Python
+- JS, Python, Go
 - **Typescript**
 - **기술 공유**
 - 노력에 따른 성취
@@ -31,6 +31,7 @@
 
 - 콩
 - 가난한 여행
+- 재미 없는 거
 - 왜 배우는지 모르는 것
 
 ## 기술
@@ -42,23 +43,14 @@
 - Vanila ES6+
 - **TypeScript**
 
-### 서버
+### 서버 & DevOps
 
 - **Node.js Express.js**
 - **TypeScript**
+- **Docker**
 - Python Django DRF
 - GraphQL
 - AWS
-
-### 관심
-
-계속해서 배우고 있습니다.
-
-- Circle CI
-- **Docker** & k8s
-- **Serverless**
-- AWS
-- **Design Pattern**
 
 ### 그 밖
 
@@ -68,7 +60,28 @@
 - 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다.
   - <https://changhoi.github.io>
 
+### 관심
+
+계속해서 배우고 있습니다.
+
+- Circle CI & Github Actions
+- k8s
+- **Golang**
+- **Serverless**
+
 ## 경력
+
+### [필통](pilltong.me)
+
+- 서울특별시 종로구
+- 2019.12 ~ 현재
+- DevOps & 서버 개발자
+  - Typescript, Express, TypeORM, Swagger
+  - PostgreSQL, DynamoDB
+  - AWS RDS, S3, EC2, ECR, ECS Fargate
+  - Docker, Docker Compose
+- React Native 개발도 수행함
+  - Typescript, React Native, Redux, Redux-saga
 
 ### [구름(goorm)](goorm.io)
 
@@ -133,7 +146,7 @@
 
 - 한양대학교 정보시스템학과 프로젝트성 프로그래밍 동아리
 - 1기: 2018.12 ~ 2019.02
-- 2기: 2019.12 ~ 2019.02
+- 2기: 2019.12 ~ 2020.02
 - 1기는 JS, ES6+를 공부하고 Node.js, Express.js를 사용해 API 서버에 대한 공부를 진행했습니다.
 - 2기는 전공 교재 OS, 데이터베이스, 컴퓨터 네트워크를 처음부터 끝까지 정리했습니다.
 
@@ -168,12 +181,6 @@
 - 기술: Graphene, React, Apollo, AWS lambda, DynamoDB
 - 수상: 팀워크 상
 
-### 연하대 - [Github repo](https://github.com/yeonhadae)
-
-- 내용: 개인적으로 대학생 미팅앱을 만들어보고 있습니다.
-- 기간: 2019.05월 ~ 현재
-- 기술: React Native, DjangoRestFramework, Redux
-
 ### Youtube-Clone - [Github repo](https://github.com/changhoi/youtube-clone)
 
 - 내용: 풀스택으로 유튜브를 클로닝하는 수업을 들었습니다.
@@ -201,7 +208,8 @@
 
 ### 기타 토이 프로젝트
 
-- 학습을 위한 토이 프로젝트를 진행하는 것을 좋아합니다.
+새로운 것을 익힐 때 간단한 데모를 만들거나, 작은 토이프로젝트를 진행하는 것을 통해 배우는 것을 좋아합니다. 가장 빠르게 습득할 수 있고, 가장 잘 맞는 방식이라고 생각하고 있습니다.
+
 - [토이 프로젝트](https://github.com/toy-program)
 - [기타 작은 프로젝트](https://github.com/changhoi?tab=repositories)
 
