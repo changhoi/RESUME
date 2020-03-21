@@ -66,8 +66,10 @@
 
 - Circle CI & Github Actions
 - k8s
+- **NestJs**
 - **Golang**
 - **Serverless**
+- Network & OS
 
 ## 경력
 
@@ -78,10 +80,16 @@
 - DevOps & 서버 개발자
   - Typescript, Express, TypeORM, Swagger
   - PostgreSQL, DynamoDB
-  - AWS RDS, S3, EC2, ECR, ECS Fargate
+  - Serverless Framework
+  - AWS RDS, S3, EC2, ECR, ECS Fargate, CloudFormation
   - Docker, Docker Compose
-- React Native 개발도 수행함
-  - Typescript, React Native, Redux, Redux-saga
+  - Github Action
+- React Native & React 개발도 수행함
+  - Typescript, React Native, React, Redux, Redux-saga
+- 공개된 프로젝트
+  - [콜로나 맵](https://callona.deliverypharmacy.co.kr)
+    - S3 & Github Action & CloudFormation 개발 환경 구성
+    - Serverless Framework & Typescript & DynamoDB 백앤드
 
 ### [구름(goorm)](goorm.io)
 
@@ -162,12 +170,6 @@
 
 실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
 
-### Mandal art chart Backend - [Github repo](https://github.com/paperbag-dev/mandalart-server)
-
-- 내용: 아마톤에서 개발 했던 주제를 동아리 팀원들과 실제 서비스를 위한 프로젝트로 발전시키고 있습니다.
-- 기간: 2019.09.22 ~ 현재
-- 기술: Typescript, Express, MongoDB, Circle CI, Swagger
-
 ### 두근두근 라치오스 - [Github repo](https://github.com/weehan-dev/dodohan)
 
 - 내용: 위한이 한양대학교 학생들에게만 제공하던 매칭 프로그램을 축제를 맞아 이벤트성으로 외부 학교의 신청을 받고 매칭해주는 프로그램을 만들었습니다.
@@ -200,11 +202,6 @@
 
 - 내용: React를 학습하기 위해 간단한 영화 소개 앱을 만들었습니다.
 - 기술: React, axios, Presenter-Container Pattern, react-router
-
-### KakaoTalk-Clone - [Github repo](https://github.com/changhoi/KakaoTalk_clone)
-
-- 내용: HTML/CSS를 이용한 실습을 위해서 유튜브에 올라온 영상을 참조하며 프로젝를 진행했습니다.
-- 기술: HTML5, CSS3, CSS Flex
 
 ### 기타 토이 프로젝트
 
