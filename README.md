@@ -45,7 +45,7 @@
 
 ### 서버 & DevOps
 
-- **Node.js Express.js**
+- **Nodejs Expressjs NestJS**
 - **TypeScript**
 - **Docker**
 - Python Django DRF
@@ -66,7 +66,6 @@
 
 - Circle CI & Github Actions
 - k8s
-- **NestJs**
 - **Golang**
 - **Serverless**
 - Network & OS
