@@ -2,7 +2,7 @@
 
 ![contributor](https://img.shields.io/github/contributors/changhoi/RESUME.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/changhoi/RESUME.svg)
-![status](https://img.shields.io/badge/status-currently%20employed-lightgrey)
+![status](https://img.shields.io/badge/status-offer%20welcome-green)
 
 ## 프로필
 
@@ -50,7 +50,7 @@
 - **Docker**
 - Python Django DRF
 - GraphQL
-- AWS
+- **AWS**
 
 ### 그 밖
 
@@ -68,14 +68,14 @@
 - k8s
 - **Golang**
 - **Serverless**
-- Network & OS
+- Network & OS & Algorithm
 
 ## 경력
 
 ### [필통](pilltong.me)
 
 - 서울특별시 종로구
-- 2019.12 ~ 현재
+- 2019.12 ~ 2020.08
 - DevOps & 서버 개발자
   - Typescript, Express, TypeORM, Swagger
   - PostgreSQL, DynamoDB
@@ -89,6 +89,13 @@
   - [콜로나 맵](https://callona.deliverypharmacy.co.kr)
     - S3 & Github Action & CloudFormation 개발 환경 구성
     - Serverless Framework & Typescript & DynamoDB 백앤드
+  - [배달약국 약사용](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
+    - 초기 버전 클라이언트와 백앤드에 100% 참여
+    - React Native & Typescript
+    - Redux & Redux Saga
+    - Firebase
+    - AWS ECR, ECS, EC2, S3, RDS
+    - NestJS, TypeORM
 
 ### [구름(goorm)](goorm.io)
 

@@ -49,7 +49,7 @@
 - **Docker**
 - Python Django DRF
 - GraphQL
-- AWS
+- **AWS**
 
 ### Others
 
@@ -85,9 +85,15 @@ I'm self learner and keep learn something
 - Also participate React Native & React client development
   - Typescript, React Native, React, Redux, Redux-saga
 - Opened project
-  - [콜로나 맵](https://callona.deliverypharmacy.co.kr)
-    - S3 & Github Action & CloudFormation 개발 환경 구성
-    - Serverless Framework & Typescript & DynamoDB 백앤드
+  - [Callona Map](https://callona.deliverypharmacy.co.kr)
+    - S3 & Github Action & CloudFormation DevOps
+    - Serverless Framework & Typescript & DynamoDB Backend
+  - [배달약국 약사용](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
+    - React Native & Typescript
+    - Redux & Redux Saga
+    - Firebase
+    - AWS ECR, ECS, EC2, S3, RDS
+    - NestJS, TypeORM
 
 ### [구름(goorm)](goorm.io)
 
