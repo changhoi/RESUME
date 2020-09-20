@@ -49,7 +49,6 @@
 - **TypeScript**
 - **Docker**
 - Python Django DRF
-- GraphQL
 - **AWS**
 
 ### 그 밖
@@ -65,9 +64,8 @@
 계속해서 배우고 있습니다.
 
 - Circle CI & Github Actions
-- k8s
-- **Golang**
-- **Serverless**
+- Golang
+- **Serverless Framework**
 - Network & OS & Algorithm
 
 ## 경력
@@ -78,17 +76,12 @@
 - 2019.12 ~ 2020.08
 - DevOps & 서버 개발자
   - Typescript, Express, TypeORM, Swagger
-  - PostgreSQL, DynamoDB
-  - Serverless Framework
-  - AWS RDS, S3, EC2, ECR, ECS Fargate, CloudFormation
+  - PostgreSQL
+  - AWS RDS, S3, EC2, ECR, ECS Fargate
   - Docker, Docker Compose
-  - Github Action
 - React Native & React 개발도 수행함
   - Typescript, React Native, React, Redux, Redux-saga
 - 공개된 프로젝트
-  - [콜로나 맵](https://callona.deliverypharmacy.co.kr)
-    - S3 & Github Action & CloudFormation 개발 환경 구성
-    - Serverless Framework & Typescript & DynamoDB 백앤드
   - [배달약국 약사용](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
     - 초기 버전 클라이언트와 백앤드에 100% 참여
     - React Native & Typescript
@@ -101,18 +94,9 @@
 
 - 경기도 성남시 분당구
 - 2019.07 ~ 2019.10
-- 신입: 풀스택 개발자
-  - Express, React, SSR, SCSS, Reactstrap
+- 풀스택 개발자
+  - Express, React, SCSS, Reactstrap
   - MongoDB
-
-### 휴비즈(Hyubiz)
-
-- 서울 성동구 성수동
-- 2019.03 ~ 2019.07
-- 인턴십: 풀스택 개발자
-  - React Native, React, Express, Django, Django RestFramework
-  - MySQL
-  - AWS EC2, RDS
 
 ## 학력
 
@@ -156,21 +140,18 @@
 - 2019.01 ~ 2019.10
 - Python, Django를 배우고 재능 공유 웹앱 프로젝트에 참여했습니다.
 
-### 미친동아리 1기, 2기
+### 미친동아리
 
 - 한양대학교 정보시스템학과 프로젝트성 프로그래밍 동아리
-- 1기: 2018.12 ~ 2019.02
-- 2기: 2019.12 ~ 2020.02
-- 1기는 JS, ES6+를 공부하고 Node.js, Express.js를 사용해 API 서버에 대한 공부를 진행했습니다.
-- 2기는 전공 교재 OS, 데이터베이스, 컴퓨터 네트워크를 처음부터 끝까지 정리했습니다.
+- 2018.12 ~ 2019.02
+- JS, ES6+를 공부하고 Node.js, Express.js를 사용해 API 서버에 대한 공부를 진행했습니다.
 
 ### 한양대학교 위한
 
 - [한양대학교 커뮤니티 위한](http://www.weehan.com/) 동아리 운영진 개발팀
-- 2019.01 ~ 현재
-- 대학 커뮤니티를 운영하고 있습니다.
+- 2019.01 ~ 2020.06
+- 대학 커뮤니티 운영진으로 활동했습니다.
   - [Open Organization](https://github.com/weehan-dev)
-  - [개발팀 블로그](https://weehan-dev.github.io)
 
 ## 프로젝트
 
@@ -193,11 +174,6 @@
 
 - 내용: 풀스택으로 유튜브를 클로닝하는 수업을 들었습니다.
 - 기술: Express.js, Pug, MongoDB(mongoose), AWS EC2, AWS S3, Passport.js
-
-### Instagram-Clone(Django) - [Github repo](https://github.com/changhoi/insta_clone_django)
-
-- 내용: 풀스택으로 인스타그램을 클로닝 하는 수업을 들었습니다.
-- 기술: React, React Native, DjangoRestFramework, Redux
 
 ### React Native 영화 앱 - [Github repo](https://github.com/changhoi/RNetflix)
 
@@ -222,11 +198,10 @@
 
 - 한양대학교 정보시스템학과 학생회장 (2018.01 ~ 2018.12)
 - 한양대학교 정보시스템학과 웹진 웹진장 (2018.01 ~ 2018.12)
-- 미친동아리 1기 회장 (2018.12 ~ 2019.03)
+- 미친동아리 회장 (2018.12 ~ 2019.03)
 - P.rogramming 운영진 (2019.03 ~ 2019.10)
 - 한양대학교 위한 운영진 개발팀(2018.12 ~ 현재)
 - 한양대학교 위한 운영진 개발팀장 (2019.06 ~ 현재)
-- 미친동아리 2기 회장 (2019.12 ~ 2019.03)
 
 ## 언어
 
