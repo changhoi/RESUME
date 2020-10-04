@@ -74,12 +74,12 @@
 
 - 서울특별시 종로구
 - 2019.12 ~ 2020.08
-- DevOps & 서버 개발자
+- Backend
   - Typescript, Express, TypeORM, Swagger
   - PostgreSQL
   - AWS RDS, S3, EC2, ECR, ECS Fargate
   - Docker, Docker Compose
-- React Native & React 개발도 수행함
+- React Native & React
   - Typescript, React Native, React, Redux, Redux-saga
 - 공개된 프로젝트
   - [배달약국 약사용](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
@@ -170,21 +170,6 @@
 - 기술: Graphene, React, Apollo, AWS lambda, DynamoDB
 - 수상: 팀워크 상
 
-### Youtube-Clone - [Github repo](https://github.com/changhoi/youtube-clone)
-
-- 내용: 풀스택으로 유튜브를 클로닝하는 수업을 들었습니다.
-- 기술: Express.js, Pug, MongoDB(mongoose), AWS EC2, AWS S3, Passport.js
-
-### React Native 영화 앱 - [Github repo](https://github.com/changhoi/RNetflix)
-
-- 내용: React Native를 학습하기 위해 간단한 영화 소개 앱을 만들었습니다.
-- 기술: Expo, React Native, react-navigation
-
-### React 영화 앱 - [Github repo](https://github.com/changhoi/reactflix)
-
-- 내용: React를 학습하기 위해 간단한 영화 소개 앱을 만들었습니다.
-- 기술: React, axios, Presenter-Container Pattern, react-router
-
 ### 기타 토이 프로젝트
 
 새로운 것을 익힐 때 간단한 데모를 만들거나, 작은 토이프로젝트를 진행하는 것을 통해 배우는 것을 좋아합니다. 가장 빠르게 습득할 수 있고, 가장 잘 맞는 방식이라고 생각하고 있습니다.
@@ -200,8 +185,8 @@
 - 한양대학교 정보시스템학과 웹진 웹진장 (2018.01 ~ 2018.12)
 - 미친동아리 회장 (2018.12 ~ 2019.03)
 - P.rogramming 운영진 (2019.03 ~ 2019.10)
-- 한양대학교 위한 운영진 개발팀(2018.12 ~ 현재)
-- 한양대학교 위한 운영진 개발팀장 (2019.06 ~ 현재)
+- 한양대학교 위한 운영진 개발팀(2018.12 ~ 2020.06)
+- 한양대학교 위한 운영진 개발팀장 (2019.06 ~ 2020.06)
 
 ## 언어
 
