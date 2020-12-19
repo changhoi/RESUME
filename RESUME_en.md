@@ -33,7 +33,7 @@
 - Not fun
 - Learn something with no reason
 
-## Tech
+## Skill
 
 ### Client
 
@@ -49,7 +49,6 @@
 - **Go**
 - **Docker**
 - Python Django DRF
-- GraphQL
 - **AWS**
 
 ### Others
@@ -74,8 +73,8 @@ I'm self learner and keep learn something
 ### [Pilltong](pilltong.me)
 
 - Jong-ro, Seoul, Korea
-- 2019.12 ~ current
-- DevOps & Backend engineer
+- 2019.12 ~ 2020.08
+- Backend
   - Typescript, Express, TypeORM, Swagger
   - PostgreSQL, DynamoDB
   - Serverless Framework
@@ -85,9 +84,6 @@ I'm self learner and keep learn something
 - Also participate React Native & React client development
   - Typescript, React Native, React, Redux, Redux-saga
 - Opened project
-  - [Callona Map](https://callona.deliverypharmacy.co.kr)
-    - S3 & Github Action & CloudFormation DevOps
-    - Serverless Framework & Typescript & DynamoDB Backend
   - [배달약국 약사용](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
     - React Native & Typescript
     - Redux & Redux Saga
@@ -100,17 +96,8 @@ I'm self learner and keep learn something
 - Bundang-gu, Seongnam-si, Gyeonggi-do
 - 2019.07 ~ 2019.10
 - Junior fullstack engineer
-  - Express, React, SSR, SCSS, Reactstrap
+  - Express, React, SCSS, Reactstrap
   - MongoDB
-
-### 휴비즈(Hyubiz)
-
-- Seongsu-dong, Seongdong-gu, Seoul
-- 2019.03 ~ 2019.07
-- Intern, Fullstack engineer
-  - React Native, React, Express, Django, Django RestFramework
-  - MySQL
-  - AWS EC2, RDS
 
 ## Education
 
@@ -158,15 +145,13 @@ I'm self learner and keep learn something
 ### Crazy club 1st, 2nd
 
 - Hanyang University Project programming club
-- 1st: 2018.12 ~ 2019.02
-- 2nd: 2019.12 ~ 2020.02
-- 1st: Learn JS, ES6+, Node.js, Express.js, API Server & RESTFul API Design.
-- 2nd: Learn OS, DB, Computer Network by major textbook.
+- 2018.12 ~ 2019.02
+- Learn JS, ES6+, Node.js, Express.js, API Server & RESTFul API Design.
 
 ### Hanyang university Weehan
 
 - [Community for HYU Weehan](http://www.weehan.com/) Club Operation team, Developer
-- 2019.01 ~ current
+- 2019.01 ~ 2020.06
 - Operate community for HYU.
   - [Open Organization](https://github.com/weehan-dev)
 
@@ -194,26 +179,6 @@ I like use technology that I learned in project & exercises. So I use the tech i
 - Technology: Graphene, React, Apollo, AWS lambda, DynamoDB
 - Award: Team work prize
 
-### Youtube-Clone - [Github repo](https://github.com/changhoi/youtube-clone)
-
-- Content: Youtube cloning.
-- Technology: Express.js, Pug, MongoDB(mongoose), AWS EC2, AWS S3, Passport.js
-
-### Instagram-Clone(Django) - [Github repo](https://github.com/changhoi/insta_clone_django)
-
-- Content: Instagram cloning.
-- Technology: React, React Native, DjangoRestFramework, Redux
-
-### React Native 영화 앱 - [Github repo](https://github.com/changhoi/RNetflix)
-
-- Content: Simple React Native movie app for study RN.
-- Technology: Expo, React Native, react-navigation
-
-### React 영화 앱 - [Github repo](https://github.com/changhoi/reactflix)
-
-- Content: Simple React movie app for study React.
-- Technology: React, axios, Presenter-Container Pattern, react-router
-
 ### Other toy project
 
 When learning something new, I like to create simple demos or learn through small toy projects. I think it's fastest way to learn and it's the best fit for me.
@@ -229,8 +194,8 @@ As a representative, as an operation team member, I worked with other team membe
 - HYU Dept. of Information system Webzine club leader (2018.01 ~ 2018.12)
 - Crazy club leader (2018.12 ~ 2019.03)
 - P.rogramming operation team member (2019.03 ~ 2019.10)
-- Community for HYU, Weehan Operation team, development team (2018.12 ~ 현재)
-- Community for HYU, Weehan development team manager(leader) (2019.06 ~ 현재)
+- Community for HYU, Weehan Operation team, development team (2018.12 ~ 2020.06)
+- Community for HYU, Weehan development team manager(leader) (2019.06 ~ 2020.06)
 
 ## Language (Communication)
 
