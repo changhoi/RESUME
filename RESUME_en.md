@@ -46,6 +46,7 @@
 
 - **Nodejs Expressjs NestJS**
 - **TypeScript**
+- **Go**
 - **Docker**
 - Python Django DRF
 - GraphQL
@@ -65,7 +66,6 @@ I'm self learner and keep learn something
 
 - Circle CI & Github Actions
 - k8s
-- **Golang Gin**
 - **Serverless framework**
 - Network & OS & Database (Computer Science)
 
@@ -173,6 +173,13 @@ I'm self learner and keep learn something
 ## Project
 
 I like use technology that I learned in project & exercises. So I use the tech in hackathon, and like to focus on one day for finish a mini project. I wrote below about the newly acquired knowledge or mainly used technology through the project.
+
+### STMT(Six Things Must TODO) - [Github repo](https://github.com/6-things-must-to-do)
+
+- Content: Build social application to implement Ivy Lee Method which is tools for productivity in software engineering, AI course
+- Period: 2020.10.25 ~ 2020.12.13
+- Technology: Golang, Gin, Typescript, React Native, Redux, Redux-Saga, AWS DynamoDB, Lambda
+- [Documentation & demo](https://github.com/6-things-must-to-do/docs)
 
 ### 두근두근 라치오스 - [Github repo](https://github.com/weehan-dev/dodohan)
 

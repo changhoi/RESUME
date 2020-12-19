@@ -47,6 +47,7 @@
 
 - **Nodejs Expressjs NestJS**
 - **TypeScript**
+- **Go**
 - **Docker**
 - Python Django DRF
 - **AWS**
@@ -64,7 +65,6 @@
 계속해서 배우고 있습니다.
 
 - Circle CI & Github Actions
-- Golang
 - **Serverless Framework**
 - Network & OS & Algorithm
 
@@ -156,6 +156,13 @@
 ## 프로젝트
 
 실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
+
+### STMT(Six Things Must TODO) - [Github repo](https://github.com/6-things-must-to-do)
+
+- 내용: 소프트웨어공학이론, 인공지능 수업으로 생산성 향상을 위한 규칙인 Ivy Lee Method를 실천할 수 있도록 도와주는 소셜 애플리케이션을 구성했습니다.
+- 기간: 2020.10.25 ~ 2020.12.13
+- 기술: Golang, Gin, Typescript, React Native, Redux, Redux-Saga, AWS DynamoDB, Lambda
+- [Documentation & demo](https://github.com/6-things-must-to-do/docs)
 
 ### 두근두근 라치오스 - [Github repo](https://github.com/weehan-dev/dodohan)
 
