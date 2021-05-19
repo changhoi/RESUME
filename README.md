@@ -13,27 +13,6 @@
 - 지역: 서울
 - 군역: 면제 (왼쪽 전방 십자인대 파열)
 
-## Like
-
-- JS, Python, Go
-- **Typescript**
-- **기술 공유**
-- 노력에 따른 성취
-- 좋아하는 걸, 열심히
-- 배운 거 써먹기
-- **치킨**
-- 부유한 여행
-- PS4, Steam 게임
-- 영화
-- 토트넘
-
-## Don't Like
-
-- 콩
-- 가난한 여행
-- 재미 없는 거
-- 왜 배우는지 모르는 것
-
 ## 기술
 
 ### 클라이언트
@@ -43,10 +22,9 @@
 - Vanila ES6+
 - **TypeScript**
 
-### 서버 & DevOps
+### 백앤드
 
-- **Nodejs Expressjs NestJS**
-- **TypeScript**
+- **Nodejs TypeScript Expressjs NestJS**
 - **Go**
 - **Docker**
 - Python Django DRF
@@ -64,35 +42,28 @@
 
 계속해서 배우고 있습니다.
 
-- Circle CI & Github Actions
-- **Serverless Framework**
+- Github Actions
 - Network & OS & Algorithm
 
 ## 경력
 
-### [필통](pilltong.me)
+### [닥터NOW](https://drnow.co.kr/)
 
-- 서울특별시 종로구
 - 2019.12 ~ 2020.08
+- 초기 창업 멤버
 - Backend
-  - Typescript, Express, TypeORM, Swagger
+  - Typescript, NestJS, TypeORM, Swagger
   - PostgreSQL
   - AWS RDS, S3, EC2, ECR, ECS Fargate
   - Docker, Docker Compose
-- React Native & React
+- Client
   - Typescript, React Native, React, Redux, Redux-saga
 - 공개된 프로젝트
   - [배달약국 약사용](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
     - 초기 버전 클라이언트와 백앤드에 100% 참여
-    - React Native & Typescript
-    - Redux & Redux Saga
-    - Firebase
-    - AWS ECR, ECS, EC2, S3, RDS
-    - NestJS, TypeORM
 
 ### [구름(goorm)](goorm.io)
 
-- 경기도 성남시 분당구
 - 2019.07 ~ 2019.10
 - 풀스택 개발자
   - Express, React, SCSS, Reactstrap
@@ -107,30 +78,10 @@
 
 - 서울
 - 주전공: 정보시스템학과
-- 다중전공: 빅데이터융합전공
-- 2017.03 ~ 현재
-- 누적 평점 3.98/4.5
-- 전공 평점 4.23/4.5
-- 전공 이수
-
-  - C프로그래밍(ITE1009)
-  - 전산학개론(CSE1002)
-  - 경영학원론(GEN0044)
-  - 데이터구조(APA2054)
-  - 데이터베이스시스템(ITE3016)
-  - C++프로그래밍(ITE1010)
-  - 정보시스템개론(ITE1012)
-  - 회계학(ACC2056)
-  - 컴퓨터구조1(ELE3019)
-  - 객체지향프로그래밍-JAVA(ITE3032)
-  - 알고리즘분석(ITE2023)
-  - 웹시스템프로그래밍2(ITE2021)
-  - 정보시스템설계(ITE2030)
-  - 조직론(PAD3003)
-  - 확률및 통계(MAT4015)
-  - 기초미적분학(BIG2001)
-  - 자료구조와알고리즘(BIG2003)
-  - 4차산업혁명과비지니스(CUL1131)
+- 부전공: 빅데이터융합전공
+- 2017.03 ~ 2022.03
+- 누적 평점 4.03/4.5
+- 전공 평점 4.29/4.5
 
 ## 외부 활동
 
@@ -156,6 +107,12 @@
 ## 프로젝트
 
 실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
+
+### Mango Table - [Github reop](https://github.com/mango-table)
+- 내용: 만다라트 차트를 사용한 프로젝트 매니지먼트 SaaS 기획하고 창업 도전했으나, 2021 상반기 예비창업패키지 사업에 선정되지 못하고 사이드 프로젝트로 전환했습니다.
+- 기간: 2021.01 ~ 2021.05
+- 기술: Typescript, NestJS, MongoDB, Mongoose, React, Redux, Redux Saga
+- Link: https://mangotable.me
 
 ### STMT(Six Things Must TODO) - [Github repo](https://github.com/6-things-must-to-do)
 
@@ -194,6 +151,7 @@
 - P.rogramming 운영진 (2019.03 ~ 2019.10)
 - 한양대학교 위한 운영진 개발팀(2018.12 ~ 2020.06)
 - 한양대학교 위한 운영진 개발팀장 (2019.06 ~ 2020.06)
+- 창업팀 망고테이블 대표 (2021.01 ~ 2021.05)
 
 ## 언어
 
@@ -235,5 +193,6 @@
 ## 링크
 
 - email: <0417kch@naver.com>
+- [Blog](https://changhoi.github.io)
 - [GitHub](https://github.com/changhoi)
 - [LinkedIn](https://www.linkedin.com/in/changhoi-kim-720104173/)

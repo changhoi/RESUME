@@ -12,27 +12,6 @@
 - Birth: 1996.04.17
 - Location: Seoul, Korea
 
-## Like
-
-- JS, Python, Go
-- **Typescript**
-- **Technology Sharing**
-- Achievement by effort
-- Do what I like hard
-- Use what I learned
-- **Fried Chicken**
-- Wealthy travel
-- PS4, Steam Game
-- Movie
-- Tottenham Hotspur
-
-## Don't Like
-
-- Bean
-- Poor travel
-- Not fun
-- Learn something with no reason
-
 ## Skill
 
 ### Client
@@ -42,10 +21,9 @@
 - Vanila ES6+
 - **TypeScript**
 
-### Backend & DevOps
+### Backend
 
-- **Nodejs Expressjs NestJS**
-- **TypeScript**
+- **Nodejs Typescript Expressjs NestJS**
 - **Go**
 - **Docker**
 - Python Django DRF
@@ -63,33 +41,26 @@
 
 I'm self learner and keep learn something
 
-- Circle CI & Github Actions
-- k8s
-- **Serverless framework**
+- Github Actions
 - Network & OS & Database (Computer Science)
 
 ## Work experience
 
-### [Pilltong](pilltong.me)
+### [Doctor NOW](https://drnow.co.kr/)
 
-- Jong-ro, Seoul, Korea
 - 2019.12 ~ 2020.08
+- Found member
 - Backend
   - Typescript, Express, TypeORM, Swagger
-  - PostgreSQL, DynamoDB
+  - PostgreSQL
   - Serverless Framework
   - AWS RDS, S3, EC2, ECR, ECS Fargate
   - Docker, Docker Compose
-  - Github Action
-- Also participate React Native & React client development
+- Client
   - Typescript, React Native, React, Redux, Redux-saga
 - Opened project
   - [배달약국 약사용](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
-    - React Native & Typescript
-    - Redux & Redux Saga
-    - Firebase
-    - AWS ECR, ECS, EC2, S3, RDS
-    - NestJS, TypeORM
+    - Participate in backend, client 100%
 
 ### [구름(goorm)](goorm.io)
 
@@ -110,29 +81,8 @@ I'm self learner and keep learn something
 - Major: Information system
 - Minor: Big data convergence
 - 2017.03 ~ current
-- GPA 3.98/4.5
-- Major GPA 4.23/4.5
-
-- Completed major subject
-
-  - C Programming(ITE1009)
-  - Introduction to Computer Science(CSE1002)
-  - Introduction to Business Theory(GEN0044)
-  - Data Structure(APA2054)
-  - Database System(ITE3016)
-  - C++ Programming(ITE1010)
-  - Introduction to Information System(ITE1012)
-  - Accounting(ACC2056)
-  - Computer Architecture 1(ELE3019)
-  - OOP-JAVA Programming(ITE3032)
-  - Algorithm analysis(ITE2023)
-  - Web system Programming 2(ITE2021)
-  - Information system Design(ITE2030)
-  - Organizational theory(PAD3003)
-  - Probability and statistics(MAT4015)
-  - Basic Calculus(BIG2001)
-  - Data Structure And Algorithm(BIG2003)
-  - 4th industrial revolution and business(CUL1131)
+- GPA 4.03/4.5
+- Major GPA 4.29/4.5
 
 ## Other activities
 
@@ -158,6 +108,12 @@ I'm self learner and keep learn something
 ## Project
 
 I like use technology that I learned in project & exercises. So I use the tech in hackathon, and like to focus on one day for finish a mini project. I wrote below about the newly acquired knowledge or mainly used technology through the project.
+
+### Mango Table - [Github repo](https://github.com/mango-table)
+- Content: Project management SaaS with mandalart chart. I tried to start a business, but I couldn't raise capital, so I switched to a side project.
+- Period: 2021.01 ~ 2021.05
+- Technology: Typescript, NestJS, MongoDB, Mongoose, React, Redux, Redux Saga
+- Link: https://mangotable.me
 
 ### STMT(Six Things Must TODO) - [Github repo](https://github.com/6-things-must-to-do)
 
@@ -196,6 +152,7 @@ As a representative, as an operation team member, I worked with other team membe
 - P.rogramming operation team member (2019.03 ~ 2019.10)
 - Community for HYU, Weehan Operation team, development team (2018.12 ~ 2020.06)
 - Community for HYU, Weehan development team manager(leader) (2019.06 ~ 2020.06)
+- Team Mango Table leader (2021.01 ~ 2021.05)
 
 ## Language (Communication)
 
@@ -237,5 +194,6 @@ As a representative, as an operation team member, I worked with other team membe
 ## Link
 
 - email: <0417kch@naver.com>
+- [Blog](https://changhoi.github.io)
 - [GitHub](https://github.com/changhoi)
 - [LinkedIn](https://www.linkedin.com/in/changhoi-kim-720104173/)
