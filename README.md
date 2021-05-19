@@ -109,7 +109,7 @@
 
 실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
 
-### Mango Table - [Github reop](https://github.com/mango-table)
+### Mango Table - [Github repo](https://github.com/mango-table)
 - 내용: 만다라트 차트를 사용한 프로젝트 매니지먼트 SaaS 기획하고 창업 도전했으나, 2021 상반기 예비창업패키지 사업에 선정되지 못하고 사이드 프로젝트로 전환했습니다.
 - 기간: 2021.01 ~ 2021.05
 - 기술: Typescript, NestJS, MongoDB, Mongoose, React, Redux, Redux Saga
