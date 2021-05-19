@@ -25,7 +25,8 @@
 ### 백앤드
 
 - **Nodejs TypeScript Expressjs NestJS**
-- **Go**
+- Java
+- Go
 - **Docker**
 - Python Django DRF
 - **AWS**

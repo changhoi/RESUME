@@ -24,7 +24,8 @@
 ### Backend
 
 - **Nodejs Typescript Expressjs NestJS**
-- **Go**
+- Java
+- Go
 - **Docker**
 - Python Django DRF
 - **AWS**
