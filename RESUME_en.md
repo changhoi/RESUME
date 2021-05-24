@@ -43,6 +43,7 @@
 I'm self learner and keep learn something
 
 - Github Actions
+- Go, Java
 - Network & OS & Database (Computer Science)
 
 ## Work experience
@@ -84,6 +85,7 @@ I'm self learner and keep learn something
 - 2017.03 ~ current
 - GPA 4.03/4.5
 - Major GPA 4.29/4.5
+  - [Course](./COURSE.md)
 
 ## Other activities
 
@@ -110,17 +112,22 @@ I'm self learner and keep learn something
 
 I like use technology that I learned in project & exercises. So I use the tech in hackathon, and like to focus on one day for finish a mini project. I wrote below about the newly acquired knowledge or mainly used technology through the project.
 
+### The Football - [Github repo](https://github.com/TheFootball)
+- Content: Junction X Seoul 2021 AWS GameTech track project. Web game using AWS. Developed using Fargate, Redis Pub/Sub for real-time 1:n game over websocket requiring scale-out - ongoing
+- Period: 2021.05.21 ~ 2021.05.23
+- Technology: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/thefootball) Golang, Fiber, Websocket, Svelte, DynamoDB, Redis, Docker, Docker Compose, S3
+
 ### Mango Table - [Github repo](https://github.com/mango-table)
 - Content: Project management SaaS with mandalart chart. I tried to start a business, but I couldn't raise capital, so I switched to a side project.
 - Period: 2021.01 ~ 2021.05
-- Technology: Typescript, NestJS, MongoDB, Mongoose, React, Redux, Redux Saga
+- Technology: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/mango-table) Typescript, NestJS, MongoDB Atlas, Mongoose, React, Redux, Redux Saga, Sentry, Google Analytics, Auth0, AWS
 - Link: https://mangotable.me
 
 ### STMT(Six Things Must TODO) - [Github repo](https://github.com/6-things-must-to-do)
 
 - Content: Build social application to implement Ivy Lee Method which is tools for productivity in software engineering, AI course
 - Period: 2020.10.25 ~ 2020.12.13
-- Technology: Golang, Gin, Typescript, React Native, Redux, Redux-Saga, AWS DynamoDB, Lambda
+- Technology: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/6-things-must-to-do) Golang, Gin, Typescript, React Native, Redux, Redux-Saga, AWS DynamoDB, Lambda
 - [Documentation & demo](https://github.com/6-things-must-to-do/docs)
 
 ### 두근두근 라치오스 - [Github repo](https://github.com/weehan-dev/dodohan)

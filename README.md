@@ -33,7 +33,7 @@
 
 ### 그 밖
 
-- Test code (Mocha, chai)
+- Test code (Mocha, chai, Jest)
 - Git, Git-Flow, Github
 - Markdown
 - 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다.
@@ -44,6 +44,7 @@
 계속해서 배우고 있습니다.
 
 - Github Actions
+- Go, Java
 - Network & OS & Algorithm
 
 ## 경력
@@ -83,6 +84,7 @@
 - 2017.03 ~ 2022.03
 - 누적 평점 4.03/4.5
 - 전공 평점 4.29/4.5
+  - [관련 수업 이수 내역](./COURSE.md)
 
 ## 외부 활동
 
@@ -109,17 +111,22 @@
 
 실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
 
-### Mango Table - [Github repo](https://github.com/mango-table)
+### The Football - [Github repo](https://github.com/TheFootball)
+- 내용: AWS를 최대한 활용한 웹 게임. 스케일 아웃이 필요한 웹소켓을 통한 실시간 1:N 게임을 위해 Fargate, Redis Pub/Sub를 사용해 개발 - 미완성
+- 기간: 2021.05.21 ~ 2021.05.23
+- 기술: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/thefootball) Golang, Fiber, Websocket, Svelte, DynamoDB, Redis, Docker, Docker Compose, S3
+
+### Mango Table
 - 내용: 만다라트 차트를 사용한 프로젝트 매니지먼트 SaaS 기획하고 창업 도전했으나, 2021 상반기 예비창업패키지 사업에 선정되지 못하고 사이드 프로젝트로 전환했습니다.
 - 기간: 2021.01 ~ 2021.05
-- 기술: Typescript, NestJS, MongoDB, Mongoose, React, Redux, Redux Saga
+- 기술: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/mango-table) Typescript, NestJS, MongoDB Atlas, Mongoose, React, Redux, Redux Saga, Sentry, Google Analytics, Auth0, AWS
 - Link: https://mangotable.me
 
 ### STMT(Six Things Must TODO) - [Github repo](https://github.com/6-things-must-to-do)
 
 - 내용: 소프트웨어공학이론, 인공지능 수업으로 생산성 향상을 위한 규칙인 Ivy Lee Method를 실천할 수 있도록 도와주는 소셜 애플리케이션을 구성했습니다.
 - 기간: 2020.10.25 ~ 2020.12.13
-- 기술: Golang, Gin, Typescript, React Native, Redux, Redux-Saga, AWS DynamoDB, Lambda
+- 기술: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/6-things-must-to-do) Golang, Gin, Typescript, React Native, Redux, Redux-Saga, AWS DynamoDB, Lambda
 - [Documentation & demo](https://github.com/6-things-must-to-do/docs)
 
 ### 두근두근 라치오스 - [Github repo](https://github.com/weehan-dev/dodohan)
