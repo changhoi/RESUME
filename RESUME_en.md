@@ -85,7 +85,7 @@ I'm self learner and keep learn something
 - 2017.03 ~ current
 - GPA 4.03/4.5
 - Major GPA 4.29/4.5
-  - [Course](./COURSE.md)
+  - [Course](./COURSE_en.md)
 
 ## Other activities
 
@@ -101,7 +101,7 @@ I'm self learner and keep learn something
 - 2018.12 ~ 2019.02
 - Learn JS, ES6+, Node.js, Express.js, API Server & RESTFul API Design.
 
-### Hanyang university Weehan
+### Hanyang university community, Weehan
 
 - [Community for HYU Weehan](http://www.weehan.com/) Club Operation team, Developer
 - 2019.01 ~ 2020.06
