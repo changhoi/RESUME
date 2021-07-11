@@ -21,5 +21,5 @@
 | ARTIFICIAL INTELLIGENCE AND APPLICATION |  A+   |  2020-2  |
 |            Computer Networks            |  A+   |  2020-2  |
 |          IT PROJECT MANAGEMENT          |  A+   |  2020-2  |
-|            OPERATING SYSTEM             |       |  2021-1  |
+|            OPERATING SYSTEM             |  A0   |  2021-1  |
 
