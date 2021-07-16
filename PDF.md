@@ -63,6 +63,7 @@
 - 공개된 프로젝트
   - [배달약국 약사용](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
     - 초기 버전 클라이언트와 백앤드에 100% 참여
+    - 리드 개발자로서 서비스의 설계 및 인프라, 개발팀 문화 등에 기여
 
 ### [구름(goorm)](goorm.io)
 
