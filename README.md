@@ -48,33 +48,6 @@
 - Go, Java
 - Network & OS & Algorithm
 
-## 경력
-
-### [닥터NOW](https://drnow.co.kr/)
-
-- 2019.12 ~ 2020.08
-- 초기 창업 멤버
-- Backend
-  - Typescript, NestJS, TypeORM, Swagger
-  - PostgreSQL
-  - AWS RDS, S3, EC2, ECR, ECS Fargate
-  - Docker, Docker Compose
-- Client
-  - Typescript, React Native, React, Redux, Redux-saga
-- 공개된 프로젝트
-  - [배달약국 약사용](https://play.google.com/store/apps/details?id=com.baedalyakgook_pharm)
-    - 초기 버전 클라이언트와 백앤드에 100% 참여
-    - 리드 개발자로서 서비스의 설계 및 인프라, 개발팀 문화 등에 기여
-
-### [구름(goorm)](goorm.io)
-
-- 2019.07 ~ 2019.10
-- 풀스택 개발자
-  - Express, React, SCSS, Reactstrap
-  - MongoDB
-- 구름 Edu 풀스택 개발 참여
-- 구름 IDE 리뉴얼 프론트 참여
-
 ## 학력
 
 - 일산 백석고등학교 졸업
@@ -112,9 +85,32 @@
 - 대학 커뮤니티 운영진으로 활동했습니다.
   - [Open Organization](https://github.com/weehan-dev)
 
+## 경력
+
+경력과 프로젝트는 [포트폴리오](./PORTFOLIO.md)에 더 자세히 기재했습니다.
+
+### [닥터NOW](https://drnow.co.kr/)
+
+- 2019.12 ~ 2020.08
+- 초기 창업 멤버, 리드 개발자
+- Backend
+    - Typescript, NestJS, TypeORM, Swagger
+    - PostgreSQL
+    - AWS RDS, S3, EC2, ECR, ECS Fargate
+    - Docker, Docker Compose
+- Client
+  - Typescript, React Native, React, Redux, Redux-saga
+
+### [구름(goorm)](goorm.io)
+
+- 2019.07 ~ 2019.10
+- 풀스택 개발자
+- Express, React, SCSS, Reactstrap
+- MongoDB
+  
 ## 프로젝트
 
-실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다.
+실습, 프로젝트 등을 통해서 배운 내용을 사용해보는 것을 좋아합니다. 해커톤에서 배웠던 것을 사용해보는 것을 좋아하고, 하루 동안 집중해서 프로젝트를 완성하는 것을 좋아합니다. 프로젝트를 통해 특히 새롭게 습득했던 지식들 또는 주로 사용된 기술에 대해서 적었습니다. 자세한 내용은 [포트폴리오](./PORTFOLIO.md)에 기록했습니다.
 
 ### The Football - [Github repo](https://github.com/TheFootball)
 - 내용: Junction X Seoul 해커톤에 참여했습니다. AWS를 최대한 활용한 웹 게임을 기획하고, 백앤드를 맡아 스케일 아웃이 필요한 웹소켓을 통한 실시간 1:N 게임을 위해 Fargate, Redis Pub/Sub를 사용해 개발했으나, 클라이언트 부분 미완성 상태로 마무리 되었습니다.
