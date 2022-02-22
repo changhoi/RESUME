@@ -44,7 +44,7 @@
 - 주전공: 정보시스템학과
 - 부전공: 빅데이터융합전공
 - 2017.02 ~ 2022.02
-- 누적 평점 4.06/4.5
+- 누적 평점 4.03/4.5
 - 전공 평점 4.29/4.5
   - [관련 수업 이수 내역](https://github.com/changhoi/RESUME/blob/master/COURSE.md)
 
@@ -54,7 +54,7 @@
 
 - 한양대학교 프로그래밍 동아리 FORIF에서 멘토로서 스터디를 이끌었습니다.
 - 2021.09 ~ 2021.12
-- "[Go systems programming](https://www.oreilly.com/library/view/go-systems-programming/9781787125643/)" 외 여러 서적을 이용해 스터디를 진행하고 있습니다.
+- "[Go systems programming](https://www.oreilly.com/library/view/go-systems-programming/9781787125643/)" 외 여러 서적을 이용해 스터디를 진행했습니다.
 
 ### Deep CS
 
@@ -67,14 +67,14 @@
 
 - [한양대학교 커뮤니티 위한](http://www.weehan.com/) 동아리 운영진 개발팀
 - 2019.01 ~ 2020.06
-- 대학 커뮤니티 운영진으로 활동했습니다.
+- 대학 커뮤니티 운영진으로 활동했습니다. 운영에 필요한 기능들을 개발했습니다.
 
 ### P.rogramming
 
 - 연합 프로그래밍 동아리
 - 2019.01 ~ 2019.10
 - Python, Django를 배우고 재능 공유 웹앱 프로젝트에 참여했습니다.
-- 운영진으로서, 이후 기수의 동아리원들을 교육하고 멘토링에 참여했습니다.
+- 운영진으로서 이후 기수의 동아리원들을 교육하고 멘토링에 참여했습니다.
 
 ## 경력
 
