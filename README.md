@@ -21,7 +21,7 @@
 
 ### 기타
 
-- **DynamoDB**, **RDB**
+- **DynamoDB**, **MySQL**, MongoDB
 - REST, gRPC
 - Git
 - React & Redux
@@ -32,7 +32,6 @@
 
 계속해서 배우고 있습니다.
 
-- Java
 - Algorithm
 - Database
 
@@ -117,7 +116,7 @@
 
 - 내용: Junction X Seoul 해커톤에 참여했습니다. AWS를 최대한 활용한 웹 게임을 기획하고, 백앤드를 맡아 스케일 아웃이 필요한 웹소켓을 통한 실시간 1:N 게임을 위해 Fargate, Redis Pub/Sub를 사용해 개발했으나, 클라이언트 부분 미완성 상태로 마무리 되었습니다.
 - 기간: 2021.05.21 ~ 2021.05.23
-- 기술: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/thefootball) Golang, Fiber, Websocket, Svelte, DynamoDB, Redis, Docker, Docker Compose, S3
+- 기술: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/thefootball) Golang, Fiber, Websocket, Redis, Docker, Docker Compose
 
 ### Mango Table
 
@@ -146,7 +145,6 @@
 
 - 한양대학교 정보시스템학과 학생회장 (2018.01 ~ 2018.12)
 - 한양대학교 정보시스템학과 웹진 웹진장 (2018.01 ~ 2018.12)
-- 미친동아리 회장 (2018.12 ~ 2019.03)
 - P.rogramming 운영진 (2019.03 ~ 2019.10)
 - 한양대학교 위한 운영진 개발팀(2018.12 ~ 2020.06)
 - 한양대학교 위한 운영진 개발팀장 (2019.06 ~ 2020.06)
