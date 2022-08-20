@@ -12,12 +12,13 @@
 
 - **Go**
 - **Nodejs TypeScript**
-- Java, Python
+- Java, Kotlin
 
 ### 인프라
 
 - **Docker & Docker Compose**
 - **AWS**
+- Kubernetes
 
 ### 기타
 
@@ -27,13 +28,6 @@
 - React & Redux
 - 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다.
   - <https://changhoi.github.io>
-
-### 관심
-
-계속해서 배우고 있습니다.
-
-- Algorithm
-- Database
 
 ## 학력
 
@@ -79,6 +73,14 @@
 
 경력과 프로젝트는 [포트폴리오](./PORTFOLIO.md)에 더 자세히 기재했습니다.
 
+### [버킷플레이스](https://www.bucketplace.com/)
+
+- 2022.04 ~ 재직 중
+- Core Platform Engineer
+- Logging Platform
+  - 여러 서비스에서 공통적으로 로그를 보내는 로깅 파이프라인을 개발했습니다.
+  - Go, Kafka, Kotlin, React
+
 ### [당근마켓](https://www.daangn.com/)
 
 - 2021.11 ~ 2022.01
@@ -123,7 +125,6 @@
 - 내용: 만다라트 차트를 사용한 프로젝트 매니지먼트 SaaS 기획하고 창업에 도전했습니다.
 - 기간: 2021.01 ~ 2021.05
 - 기술: [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/mango-table) Typescript, NestJS, MongoDB Atlas, Mongoose, React, Redux, Redux Saga, Sentry, Google Analytics, Auth0, AWS
-- Link: <https://mangotable.me>
 
 ### STMT(Six Things Must TODO) - [Github repo](https://github.com/6-things-must-to-do)
 

@@ -1,5 +1,14 @@
 ## 경력
 
+### [버킷플레이스](https://www.bucketplace.com/)
+
+- 2022.04 ~ 재직 중
+- Core Platform Engineer
+- Logging Platform
+  - 여러 서비스에서 공통적으로 로그를 보내는 로깅 파이프라인을 개발했습니다.
+  - Go, Kafka, Kotlin, React
+  - Fiber 라는 프레임워크를 사용해 Webserver를 만들었습니다. HTTP Body를 통해 들어오는 값을 파싱하는 과정을 최대한 단순하게 만들기 위해 직접 Parser를 구현하고 배열 형태로 들어오는지만 확인하도록 만들었습니다. 받은 로그는 Aggregator 역할을 하는 Kafka 토픽으로 전달되도록 만들었습니다. 또한 파이프라인 중에 필터와 AVRO 스키마가 어떻게 적용되어 있는지를 확인할 수 있는 Admin 페이지를 간단하게 React & Typescript를 통해 구현했습니다.
+
 ### [당근마켓](https://www.daangn.com/)
 
 - 2021.11 ~ 2022.01
