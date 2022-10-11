@@ -8,7 +8,7 @@ Hello! I'm software engineer. I want to be a developer who solves difficult engi
 
 # Skills
 
-## Language
+## Programming Language
 
 - **Go**
 - **Nodejs TypeScript**
