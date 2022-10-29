@@ -114,7 +114,6 @@
 ## STMT(Six Things Must TODO) - [Github repo](https://github.com/6-things-must-to-do)
 
 - 2020.10.25 ~ 2020.12.13
--
 - Built productivity improvement and habit creation application, called STMT in Software Engineering class
 - [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/changhoi/6-things-must-to-do) Go, Gin, Typescript, React Native, Redux, Redux-Saga, AWS DynamoDB
 - [Documentation & demo](https://github.com/6-things-must-to-do/docs)
