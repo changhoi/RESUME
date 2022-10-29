@@ -38,7 +38,6 @@ Hello! I'm a software engineer. I want to be a developer who solves challenging 
 - 2017.02 - 2022.02
 - Cumulative GPA: 4.03/4.5
 - Major Cumulative GPA: 4.29/4.5
-  - [Relevant coursework](./COURSE.md)
 
 # Professional Experiences
 
@@ -81,7 +80,7 @@ Hello! I'm a software engineer. I want to be a developer who solves challenging 
 
 # Work Experiences
 
-Careers and projects are described in more detail in [Portfolio](./PORTFOLIO.md).
+Careers and projects are described in more detail in Portfolio
 
 ## [Bucketplace](https://www.bucketplace.com/)
 
@@ -126,7 +125,7 @@ Careers and projects are described in more detail in [Portfolio](./PORTFOLIO.md)
 
 # Projects
 
-I wrote about newly acquired knowledge or mainly used skills through the project. More details are written in the [Portfolio](./PORTFOLIO.md)
+I wrote about newly acquired knowledge or mainly used skills through the project. More details are written in the Portfolio
 
 ## The Football - [Github repo](https://github.com/TheFootball)
 
