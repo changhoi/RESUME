@@ -4,7 +4,7 @@
 - Birth: 1996.04.17
 - Location: Seoul, Korea
 
-Hello! I'm a software engineer. I want to be a developer who solves challenging problems related to managing large data or massive traffic in a lapidly growing service. I enjoy working collaboratively and communicate well to improve the quality of the code base, such as test code or code review. And I also like to research how to solve problems in a most optimal way, and to learn the solution even if it is unfamiliar.
+Hello! I'm a software engineer. I want to be a developer who solves challenging problems related to managing large data or massive traffic in a rapidly growing service. I enjoy working collaboratively and communicating well to improve the quality of the code base, such as test code or code review. And I also like to research how to solve problems most optimally, and to learn the solution even if it is unfamiliar.
 
 # Skills
 
