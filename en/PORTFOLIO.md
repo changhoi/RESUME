@@ -11,7 +11,9 @@
 - Built logging server for every client send logs
 - Developed a logging pipeline that receives logs from across multiple clients
 - Go, Kafka, Kotlin, React
-- Especially, I built the log server that receives every log data from many clients. The goal of it is reliability in high traffic situation. The server parses log data from byte array and send to the kafka.
+- Built the log server that receives every log data from clients
+  - Parsing log data from bytes and send to Kafka
+  - Introduced snappy compression option and reduced message sizes by 55% on average
 
 ### Feature Flag
 
@@ -22,7 +24,7 @@
 ### Gohouse
 
 - Created and maintained Go common package library.
-- Document Go style guide and testing guide
+- Created Document Go style guide and testing guide
 
 ## [Karrot](https://www.daangn.com/)
 

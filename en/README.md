@@ -40,6 +40,56 @@ Hello! I'm a software engineer. I want to be a developer who solves challenging 
 - Major Cumulative GPA: 4.29/4.5
   - [Relevant coursework](./COURSE.md)
 
+# Work Experiences
+
+Careers and projects are described in more detail in [Portfolio](./PORTFOLIO.md)
+
+## [Bucketplace](https://www.bucketplace.com/)
+
+- 2022.04 - Present
+- Core Platform team, Software Engineer
+- Logging Platform
+  - Developed a logging pipeline that sends logs in common, across multiple services.
+  - Go, Kafka, Kotlin, React
+  - Built the log server that receives every log data from clients
+    - Parsing log data from bytes and send to Kafka
+    - Introduced snappy compression option and reduced message sizes by 55% on average
+- Feature Flag
+  - Developed a [Feature Flag](https://martinfowler.com/articles/feature-toggles.html) pilot project.
+  - Go, ETCD, Github Action
+- Go Common Library "Gohouse"
+  - Maintained the common Go package 
+
+## [Karrot](https://www.daangn.com/)
+
+- 2021.11 - 2022.01
+- Geo Information System Platform Team, Software Engineer Intern
+- Go, gRPC
+- [Developing predictable, large-scale services](https://medium.com/daangn/%EC%98%88%EC%B8%A1-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-a33e2f3cef88)
+  - I have summarized the projects I did during the internship in writing.
+- [daangn/gogeos](https://github.com/daangn/gogeos) Opensource contributtion
+  - Added new functions to `gogeos`, and released new version.
+
+## [Doctor NOW](https://drnow.co.kr/)
+
+- 2019.12 - 2020.08
+- Founding Member, Lead Engineer
+- Built MVP service, led engineering team
+- MVP service backend
+  - Typescript, NestJS, TypeORM, Swagger
+  - PostgreSQL
+  - AWS RDS, S3, EC2, ECR, ECS Fargate
+  - Docker, Docker Compose
+- MVP service client
+  - Typescript, React Native, React, Redux, Redux-saga
+
+## [goorm](goorm.io)
+
+- 2019.07 - 2019.10
+- Fullstack engineer
+- Developed goormEDU, goormIDE services.
+- Express, React, SCSS, Reactstrap, MongoDB
+
 # Professional Experiences
 
 ## NAVER Boost Camp 7th Back-end Reviewer
@@ -78,51 +128,6 @@ Hello! I'm a software engineer. I want to be a developer who solves challenging 
 - 2019.01 - 2019.10
 - Learned Python and Django and partipated in talent sharing web app development project
 - As a management team, I trained and mentored the members of the club
-
-# Work Experiences
-
-Careers and projects are described in more detail in [Portfolio](./PORTFOLIO.md)
-
-## [Bucketplace](https://www.bucketplace.com/)
-
-- 2022.04 - Present
-- Core Platform team, Software Engineer
-- Logging Platform
-  - I developed a logging pipeline that sends logs in common, across multiple services.
-  - Go, Kafka, Kotlin, React
-- Feature Flag
-  - I developed a [Feature Flag](https://martinfowler.com/articles/feature-toggles.html) pilot project.
-  - Go, ETCD, Github Action
-
-## [Karrot](https://www.daangn.com/)
-
-- 2021.11 - 2022.01
-- Geo Information System Platform Team, Software Engineer Intern
-- Go, gRPC
-- [Developing predictable, large-scale services](https://medium.com/daangn/%EC%98%88%EC%B8%A1-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-a33e2f3cef88)
-  - I have summarized the projects I did during the internship in writing.
-- [daangn/gogeos](https://github.com/daangn/gogeos) Opensource contributtion
-  - Added new functions to `gogeos`, and released new version.
-
-## [Doctor NOW](https://drnow.co.kr/)
-
-- 2019.12 - 2020.08
-- Founding Member, Lead Engineer
-- Built MVP service, led engineering team
-- Backend
-  - Typescript, NestJS, TypeORM, Swagger
-  - PostgreSQL
-  - AWS RDS, S3, EC2, ECR, ECS Fargate
-  - Docker, Docker Compose
-- Client
-  - Typescript, React Native, React, Redux, Redux-saga
-
-## [goorm](goorm.io)
-
-- 2019.07 - 2019.10
-- Fullstack engineer
-- Developed goormEDU, goormIDE services.
-- Express, React, SCSS, Reactstrap, MongoDB
 
 # Projects
 
