@@ -40,7 +40,6 @@
 - 전공 평점 4.29/4.5
   - [관련 수업 이수 내역](./COURSE.md)
 
-
 # 경력
 
 ## [버킷플레이스](https://www.bucketplace.com/)
