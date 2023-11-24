@@ -17,12 +17,12 @@
 ## 인프라
 
 - **Docker & Docker Compose**
-- **AWS**
+- **AWS**, GCP
 - Kubernetes
 
 ## 기타
 
-- **MySQL**, **DynamoDB**, MongoDB
+- **MongoDB**, **MySQL**, **DynamoDB**
 - Git
 - React & Redux
 - 공부한 내용들 기억하고 싶은 것들을 간략하게 기록해둡니다.
@@ -49,6 +49,7 @@
 - 버킷플레이스 개발팀이 공통적으로 사용해야 하는 인프라 및 서비스 개발
 
 ### Logging Pipeline
+
 - 여러 시스템에서 로그를 받아 처리하는 로깅 파이프라인을 개발했습니다.
 - Go, Kafka, Kotlin, React
 - 클라이언트에서 보내는 로그를 가장 앞에서 받아주는 로그 서버를 개발했습니다. 아주 단순하게 메시지를 받아 Aggregator 역할을 하는 Kafka로 보내는 역할을 하는 서버였고, 처리 성능에 가장 큰 초점이 맞춰져 있었습니다. 처리 성능을 높이기 위해 Standard Library의 JSON 파서가 아닌 더 성능이 좋은 파서를 사용하였고, 바이트 시퀀스가 JSON 배열 형태로 들어오는지만 확인하고 내부를 확인하지 않고 바로 메시지를 보내도록 JSON 파서를 커스텀 했습니다. 커스텀한 파서는 Standard Library와 기본 타입을 사용했을 때보다 약 5배 성능이 향상되었습니다. 또한 운영 중에 보내지는 메시지의 크기를 줄이고자 Kafka의 Snappy 압축 옵션을 추가해 일정 크기의 랜덤한 데이터를 보냈을 때는 약 58%, 동일하고 간단한 데이터로 실험 했을 때는 약 66% 가량 메시지 사이즈를 줄였습니다.
@@ -59,8 +60,10 @@
 - Go, ETCD, Github Action
 - Github을 메타데이터 관리 레포지토리로서 사용하는 Feature Flag POC 버전을 개발했습니다. 레포지토리에 머지되는 메타데이터를 검증하고 etcd에 Sync 하는 CLI를 개발했습니다. CLI 외에 etcd에 값을 쓰는 클라이언트가 다수이기 때문에 etcd 값을 안전하게 업데이트 하기 위해 etcd Lock과 Transaction에 대해 조사하고 유즈 케이스에 적합한 Transaction을 사용해 다수의 클라이언트가 업데이트 시 안전하게 업데이트 될 수 있도록 했습니다. 이 두 기능을 조사하고 적용한 것을 전사 기술 세션 주제로 발표했습니다.
 - Go에서 Feature Flag 데이터를 쉽게 사용할 수 있는 SDK를 개발했습니다. 오픈 소스에서 일반적으로 사용하는 방법처럼 Feature 키를 문자열로 입력해 사용하는 방법 대신 리뷰 후 머지된 메타데이터를 기반으로 정적인 타입을 사용할 수 있도록 코드를 생성했습니다.
+- SDK를 개발해가며 Backward Compatibility를 고려한 SDK 개발을 경험했습니다. 어떻게 개발해야 앞으로 복잡해질 기능을 대비하며 SDK를 고도화해 갈 수 있을지 고민하며 운영했습니다.
 
 ### Gohouse
+
 - 전사적으로 사용되는 공통 Go 패키지를 관리했으며, Go Style Guide, Testing Guide를 제공하고 Lint 등 기타 도구들을 도입해 사내 Go 생태계가 파편화 되지 않도록 노력했습니다.
 
 ## [당근마켓](https://www.daangn.com/)
@@ -100,10 +103,16 @@
 
 - 2019.07 ~ 2019.10
 - 풀스택 개발자
+
 ### goormEDU
 - React, ExpressJS, MongoDB를 사용해 구름 EDU 서비스의 신규 기능을 개발했습니다.
 
 # 외부 활동
+
+## 인프런 대규모 시스템 설계 파트1 강의
+
+- 인프런에 대규모 시스템 설계 강의를 올렸습니다.
+- [링크](https://www.inflearn.com/course/%EB%8C%80%EA%B7%9C%EB%AA%A8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%ED%8C%8C%ED%8A%B81)
 
 ## 네이버 부스트캠프 7기 백엔드 리뷰어
 

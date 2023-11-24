@@ -38,11 +38,9 @@ Hello! I'm a software engineer. I want to be a developer who solves challenging 
 - 2017.02 - 2022.02
 - Cumulative GPA: 4.03/4.5
 - Major Cumulative GPA: 4.29/4.5
-  - [Relevant coursework](./COURSE.md)
+  - [Relevant coursework](https://github.com/changhoi/RESUME/blob/master/en/COURSE.md)
 
 # Work Experiences
-
-Careers and projects are described in more detail in [Portfolio](./PORTFOLIO.md)
 
 ## [Bucketplace](https://www.bucketplace.com/)
 
