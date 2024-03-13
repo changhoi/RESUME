@@ -42,11 +42,9 @@ Hello! I'm a software engineer. I want to be a developer who solves challenging 
 
 # Work Experiences
 
-Careers and projects are described in more detail in [Portfolio](./PORTFOLIO.md)
-
 ## [Bucketplace](https://www.bucketplace.com/)
 
-- 2022.04 - Present
+- 2022.04 - 2024.03
 - Core Platform team, Software Engineer
 
 ### Logging Platform
@@ -186,14 +184,12 @@ As a representative and management team member, I worked hard to achieve a commo
 
 # Language
 
-- Korean
-- English
-  - Reading & Writing - Proficient
-  - Listening & Speaking - Conversational
+- Korean (Native)
+- English (Proficient)
 
 # Link
 
-- email: <0417kch@naver.com>
+- email: <changhoi0522@gmail.com>
 - [Blog](https://changhoi.github.io)
 - [GitHub](https://github.com/changhoi)
 - [LinkedIn](https://www.linkedin.com/in/changhoi/)

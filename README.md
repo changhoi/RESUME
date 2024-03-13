@@ -44,7 +44,7 @@
 
 ## [버킷플레이스](https://www.bucketplace.com/)
 
-- 2022.04 ~ 재직 중
+- 2022.04 ~ 2024.03
 - Core Platform Engineer
 - 버킷플레이스 개발팀이 공통적으로 사용해야 하는 인프라 및 서비스 개발
 
@@ -182,12 +182,12 @@
 
 # 언어
 
-- 한국어
-- 영어(일상적 소통 가능, 기술 문서 이해에 무리가 없음)
+- 한국어 (모국어)
+- 영어 (능숙함)
 
 # 링크
 
-- email: <0417kch@naver.com>
+- email: <changhoi0522@gmail.com>
 - [Blog](https://changhoi.kim)
 - [GitHub](https://github.com/changhoi)
 - [LinkedIn](https://www.linkedin.com/in/changhoi/)
