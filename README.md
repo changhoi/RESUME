@@ -38,7 +38,7 @@
 - 2017.02 ~ 2022.02
 - 누적 평점 4.03/4.5
 - 전공 평점 4.29/4.5
-  - [관련 수업 이수 내역](./COURSE.md)
+  - [관련 수업 이수 내역](https://github.com/changhoi/RESUME/blob/master/COURSE.md)
 
 # 경력
 
@@ -109,10 +109,10 @@
 
 # 외부 활동
 
-## 인프런 대규모 시스템 설계 파트1 강의
+## 인프런 강의 
 
-- 인프런에 대규모 시스템 설계 강의를 올렸습니다.
-- [링크](https://www.inflearn.com/course/%EB%8C%80%EA%B7%9C%EB%AA%A8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%ED%8C%8C%ED%8A%B81)
+- [대규모 시스템 설계 강의](https://www.inflearn.com/course/%EB%8C%80%EA%B7%9C%EB%AA%A8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%ED%8C%8C%ED%8A%B81)
+- [직접 만들면서 배우는 Git Internals](https://www.inflearn.com/course/%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-git-internals)
 
 ## 네이버 부스트캠프 7기 백엔드 리뷰어
 
